@@ -1,3 +1,18 @@
 h1 {
 	color: green;
 }
+
+.gif-img {
+	margin: 0 auto;
+	height: 100%;
+	width: 100%;
+}
+
+div.circle {
+	height: 300px;
+	width: 300px;
+	background-color: blue;
+	border-radius: 50%;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+}
